@@ -1,9 +1,9 @@
 {
   "name": "trello-desktop",
-  "fullName": "trello-desktop",
+  "fullName": "Trello Notifications for Desktop",
   "id": "jid1-32CvtvHsap0pkQ",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "description": "Get desktop notifications for Trello",
+  "author": "Adnan Issadeen",
+  "license": "MIT/X11",
+  "version": "0.1.1"
 }
